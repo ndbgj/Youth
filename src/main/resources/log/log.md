@@ -26,7 +26,7 @@ src/test/java
 	com/youth/Application.java
 ```
 
-+application.propertis添加jdbc数据源（使用时记得修改数据库名）
++ application.propertis添加jdbc数据源（使用时记得修改数据库名）
 
 + pom文件中添加依赖
 
